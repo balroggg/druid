@@ -6,6 +6,7 @@
 [![docs.rs](https://docs.rs/druid/badge.svg)](https://docs.rs/druid/)
 [![license](https://img.shields.io/crates/l/druid)](https://github.com/linebender/druid/blob/master/LICENSE)
 [![chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://xi.zulipchat.com)
+[![.github/workflows/ci.yml](https://github.com/balroggg/druid/actions/workflows/ci.yml/badge.svg)](https://github.com/balroggg/druid/actions/workflows/ci.yml)
 
 Druid is an experimental Rust-native UI toolkit. Its main goal is to offer a
 polished user experience. There are many factors to this goal, including
